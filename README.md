@@ -61,7 +61,7 @@ You will find two (disabled) connections: GoogleMapsTest:apiConnection and Googl
 2. Expand the ```GoogleMapsTests``` package.
 3. Run the ```*Test``` flow services you find in the subsequent directories.
 ______________________
-These tools are provided as-is and without warranty or support. They do not constitute part of the Software AG product suite. Users are free to use, fork and modify them, subject to the license agreement. While Software AG welcomes contributions, we cannot guarantee to include every contribution in the master project.
+These tools are provided as-is and without warranty or support. They do not constitute part of the webMethods product suite. Users are free to use, fork and modify them, subject to the license agreement. While Software AG welcomes contributions, we cannot guarantee to include every contribution in the master project.
 _____________
 For more information you can Ask a Question in the [TECHcommunity Forums](https://tech.forums.softwareag.com/tags/c/forum/1/CloudStreams).
 
